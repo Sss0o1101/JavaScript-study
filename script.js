@@ -21,5 +21,14 @@ let index =0;
 while(index < 5){
     // ここに繰り返したい命令分
     console.log(index)
-    index++;   
+    index++;
 }
+
+// -----------------------------------------
+const questions = ["現在の日本の総理大臣の名前は？","令和３年は西暦で言うと何年？","もっとも人口が多い国はどこ？"];
+
+for(let i = 0; i < questions.length; i++){
+    alert(questions[i])
+}
+
+
