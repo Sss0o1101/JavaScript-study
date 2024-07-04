@@ -31,4 +31,11 @@ for(let i = 0; i < questions.length; i++){
     alert(questions[i])
 }
 
+// 条件文 if/else
+if(inoki.length > 3){
+   console.log("ボンバイエ！");
+}else{
+   console.log("ボンバ...");
+}
+
 
