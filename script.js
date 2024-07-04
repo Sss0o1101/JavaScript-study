@@ -38,4 +38,9 @@ if(inoki.length > 3){
    console.log("ボンバ...");
 }
 
+// 関数
+const test = () => {
 
+};
+
+test();
