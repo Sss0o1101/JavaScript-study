@@ -44,3 +44,13 @@ const test = () => {
 };
 
 test();
+
+
+//オブジェクト
+const test2 = {
+    color: "pink",
+    size: "large",
+    purfume: "mit",
+};
+
+console.log(test2);
